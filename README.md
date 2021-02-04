@@ -2,7 +2,6 @@
 Requisito parcial para disciplina de período especial.
 
 Dataset:
-Possibilidade 1:
 
 ------ Malware static and dynamic features VxHeaven and Virus Total Data Set ------
 https://archive.ics.uci.edu/ml/datasets/Malware+static+and+dynamic+features+VxHeaven+and+Virus+Total#
