@@ -106,3 +106,8 @@ Dessa forma, as colunas que serão posteriormente excluídas são:
 	- telecommuting
 	- has_company_logo
 	- has_questions
+
+Arquivos:
+
+	Trabalho1.ipynb - contém código junto com o relatório explicativo
+	Trabalho1.py 	- mesmo código, somente código 
