@@ -98,16 +98,19 @@ Também temos diversas amostras com valores nulos que terão de ser tratadas ade
 
 5) Quais colunas/atributos você julga ser interessante manter e remover? Por quê?
 
-Inicialmente faremos a análise dos atributos numéricos a fim de buscar características comuns nesses valores quando os anúncios são fraudulentos.
-Em seguida, esses atributos serão ignorados/excluídos para que possamos analisar as características textuais dos anúncios.
-Dessa forma, as colunas que serão posteriormente excluídas são:
-
-	- job_id
-	- telecommuting
-	- has_company_logo
-	- has_questions
+Através da análise dos dados, optou-se por excluir a coluna job_id, que se refere somente ao número da amostra e a coluna salary_range, pois não contribui significativamente para a análise dos dados e por possuir muitas ocorrências de valores nulos (15.012 nulos entre 17.880).
 
 Arquivos:
 
-	Trabalho1.ipynb - contém código junto com o relatório explicativo
-	Trabalho1.py 	- mesmo código, somente código 
+	Trabalho1.ipynb        - contém código junto com o relatório explicativo (colab)
+	trabalho1.py 	       - mesmo código, somente código 
+	Trabalho(w2v).ipynb    - Código com relatório após executar o word2vec para extração de atributos textuais
+	Trabalho(w2v).py       - mesmo código
+	Trabalho-tfidf.ipynb   - Código com relatório após executar o TF-IDF para extração de atributos textuais
+	trabalhp-tfidf.py      - mesmo código
+	fake_job_postings.zip  - Dataset
+	
+Diretórios:
+
+	Resultados-TF-IDF	- Imagens resultantes da execução do algoritmo usando TF-IDF
+	Resultados-Word2vec	- Imagens resultantes da execução do algoritmo usando Word2Vec
