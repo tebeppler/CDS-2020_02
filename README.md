@@ -104,8 +104,10 @@ Arquivos:
 
 	Trabalho(w2v).ipynb    - Código com relatório após executar o word2vec para extração de atributos textuais
 	Trabalho(w2v).py       - mesmo código
+	Trabalho(w2v).pdf      - versão em pdf
 	Trabalho-tfidf.ipynb   - Código com relatório após executar o TF-IDF para extração de atributos textuais
 	trabalhp-tfidf.py      - mesmo código
+	Trabalho-tfidf.pdf     - versão em pdf
 	fake_job_postings.zip  - Dataset
 	
 Diretórios:
