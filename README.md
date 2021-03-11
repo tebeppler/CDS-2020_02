@@ -102,8 +102,6 @@ Através da análise dos dados, optou-se por excluir a coluna job_id, que se ref
 
 Arquivos:
 
-	Trabalho1.ipynb        - contém código junto com o relatório explicativo (colab)
-	trabalho1.py 	       - mesmo código, somente código 
 	Trabalho(w2v).ipynb    - Código com relatório após executar o word2vec para extração de atributos textuais
 	Trabalho(w2v).py       - mesmo código
 	Trabalho-tfidf.ipynb   - Código com relatório após executar o TF-IDF para extração de atributos textuais
