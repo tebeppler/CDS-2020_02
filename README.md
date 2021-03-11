@@ -1,5 +1,8 @@
 # CDS-2020_02
 Requisito parcial para disciplina de período especial.
+Estudantes:
+Mariane R. S. Cassenote; 
+Tamy Emily Beppler
 
 Dataset (fake_job_postings.csv):
 
